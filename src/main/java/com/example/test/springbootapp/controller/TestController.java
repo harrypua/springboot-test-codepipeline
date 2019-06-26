@@ -12,6 +12,6 @@ public class TestController {
 
     @GetMapping
     public String testRoute() {
-        return "test ok!";
+        return "test ok! 20190626";
     }
 }
